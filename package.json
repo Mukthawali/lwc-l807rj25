@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/mukthawali.lwc-l807rj25",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve X8sw1nLMa6izRmKWC49q --open"
+  }
+}
